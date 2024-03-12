@@ -1,8 +1,11 @@
 title: Nico Koibur
-logo: /assets/img/nico-photoprofile.jpg
-email: nicokoibur@gmail.com
+tagline: 'life, learn, contribute'
 description: 'Learn software development, java programming, android, 
             embedded system programming and other open source tehcnology'
+logo: /assets/img/nico-photoprofile.jpg
+email: 'nicokoibur@gmail.com'
+url: https://honaidev.tech
+
 favicon: true
 color-scheme: auto
 
