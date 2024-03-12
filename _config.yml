@@ -13,10 +13,10 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/nicokoibur
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/nico-koibur-49b80649
 
 navigation:
   - name: Readme
