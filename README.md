@@ -13,7 +13,7 @@ Software Developer, based in Jayapura - Papua
   2. [PHP](http://php.net)
   3. [Kotlin](http://kotlinlang.org)
 
-## Database 
-  1. MySQL
-  2. PostgreSQL
-  3. MongoDB
+## Database Technology
+  1. [MySQL](http://www.mysql.com)
+  2. [PostgreSQL](http://www.postgresql.org)
+  3. [MongoDB](http://www.mongodb.com)
