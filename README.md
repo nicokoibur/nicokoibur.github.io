@@ -6,7 +6,7 @@ Software Developer, based in Jayapura - Papua
   * Office : [Jalan Kali Acai, Abepura - Jayapura] 
   * Mobile : +62 821 3358 4000
   * Email  : nicokoibur [at] gmail [dot] com
-  * LinkedIn : [nicokoibur](https://www.linkedin.com/in/nico-koibur-49b80649)
+  * LinkedIn : [https://www.linkedin.com/in/nico-koibur-49b80649]
 
 ## Programming Language
   1. [Java](http://java.sun.com)
