@@ -9,3 +9,5 @@ categories:
 ---
 
 Setelah mencari-cari template dan teknologi untuk web statis, akhirnya saya temukan framework jekyll yang mudah digunakan.
+
+<!--more-->

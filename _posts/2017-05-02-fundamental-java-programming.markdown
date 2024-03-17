@@ -10,6 +10,7 @@ categories:
 
 Setelah mencari-cari template dan teknologi untuk web statis, akhirnya saya temukan framework jekyll yang mudah digunakan.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue lorem, consectetur sit amet risus maximus, posuere molestie velit. Vivamus et ultrices velit. Suspendisse in magna lacinia, molestie orci eu, euismod ligula. Duis ante nisl, finibus eget turpis sit amet, faucibus congue mauris. Phasellus tincidunt lacus sit amet magna semper dignissim. In a dui diam. In hendrerit mattis hendrerit. Fusce imperdiet nec justo a luctus. Nam molestie leo lorem, at posuere lectus blandit lobortis. Ut quis congue tellus. In vel nunc nec risus malesuada varius.
+<!--more-->
 
 Mauris sagittis finibus semper. Nunc viverra, mi ultrices ultrices euismod, odio justo vestibulum lectus, tincidunt pharetra tortor velit a mauris. Sed faucibus in leo at interdum. Pellentesque orci lorem, hendrerit sit amet leo ac, gravida varius eros. Nam commodo nisi non nisi pretium posuere sed vel ex. Donec porta vestibulum odio, et porta tortor faucibus vitae. Cras suscipit, massa nec consequat tempor, quam purus congue mauris, quis sagittis felis lectus quis mi.
 

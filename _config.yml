@@ -31,7 +31,7 @@ platforms:
     link: https://www.linkedin.com/in/nico-koibur-49b80649
 
 navigation:
-  - name: Readme
+  - name: Home
     link: ./index.html
     sublist:
       - name: Image
