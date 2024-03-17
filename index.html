@@ -151,11 +151,12 @@ The final element.
   {% endfor %}
 </div>
 
+
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Sebelumnya</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sebelumnya</a>
   {% else %}
-    <span class="pagination-item older">Sebelumnya</span>
+    <span class="pagination-item older">Sebelumnya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}

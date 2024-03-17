@@ -6,17 +6,18 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-  {% if page.tags %}
+  <!-- {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "<em> - </em>"}}</em></small>
-  {% endif %}
+  {% endif %} -->
 </div>
 <hr>
 
 <div class="related">
-  <h4>Related Posts</h4>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Related Posts</h4>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
-      <li>
+    
+      <li style="margin-left: 20px;">
         <h5>
           <a href="{{ post.url }}">
             {{ post.title }} &middot; {{ post.date | date_to_string }}
