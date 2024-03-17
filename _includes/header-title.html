@@ -10,7 +10,7 @@
 <h1>{{ site.title | default: site.github.repository_name }}</h1>
 {% endif %} -->
 <h1><a href="{{ site.BASE_PATH }}/">{{ site.title }}</a></h1>
-
+<p>{{ site.tagline }}</p>
 {% if site.email %}
 <p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:{{site.email}}">{{ site.email }}</a></p>
 {% endif %}

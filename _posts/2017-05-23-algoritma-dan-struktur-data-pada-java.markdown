@@ -4,6 +4,7 @@ date: 2017-05-23 18:10:08
 layout: post
 slug: "algoritma-dan-struktur-data-pada-java"
 title: "Algoritma dan struktur data pada Java"
+author: "Nico Koibur"
 categories:
 - javaprogramming
 ---

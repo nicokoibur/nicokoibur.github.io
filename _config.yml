@@ -6,6 +6,9 @@ logo: /assets/img/dsclogo.jpg
 email: 'nicokoibur@gmail.com'
 # url: https://honaidev.tech
 
+#Permalinks
+permalink: /:categories/:title/
+
 author:
     name: "Nico Koibur"
     email: "nicokoibur@gmail.com"
@@ -40,6 +43,9 @@ navigation:
     link: ./another-page.html
 
 paginate: 5
+
+#Facebook comments
+facebook_appid: 418147669297621
 
 # Timezone
 timezone: Asia/Jayapura
