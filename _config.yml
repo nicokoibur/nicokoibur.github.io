@@ -1,3 +1,14 @@
+
+#Conversion
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+#Permalinks
+permalink: /:categories/:title/
+
 title: 'Living life and make it better'
 tagline: 'life, learn, contribute'
 description: 'Learn software development, java programming, android, 
@@ -6,8 +17,6 @@ logo: /assets/img/dsclogo.jpg
 email: 'nicokoibur@gmail.com'
 # url: https://honaidev.tech
 
-#Permalinks
-permalink: /:categories/:title/
 
 author:
     name: "Nico Koibur"
