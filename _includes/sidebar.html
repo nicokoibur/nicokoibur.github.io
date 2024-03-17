@@ -2,28 +2,19 @@
   {% if site.platforms %}
   <ul class="link">
     {%- for platform in site.platforms %}
-    <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
+    <!-- <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li> -->
+    <a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a>&nbsp;&nbsp;&nbsp;&nbsp;
     {%- endfor %}
   </ul>
   {% endif %}
+  <p style="margin: 0px;">
+    <small>
+      <a href="https://github.com/vaibhavvikas/jekyll-theme-minimalistic">Minimalistic</a> &mdash; Theme by
+      <a href="https://github.com/vaibhavvikas/">vaibhavvikas</a>
+    </small>
+  </p>
 
-  <nav><ul>
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
 
-    {% assign pages_list = site.pages %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <li>
-            <a href="{{ node.url }}">{{ node.title }}</a>
-          </li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </ul></nav>
 
   <!-- {% if site.navigation %}
   <h3 class="sidebar-h3">Contents:</h3>
