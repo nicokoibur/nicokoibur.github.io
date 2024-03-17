@@ -4,6 +4,14 @@
 @import "jekyll-theme-minimalistic";
 @import url(//fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
+body {
+	margin: 10px;
+	padding:50px;
+	font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#333;
+	font-weight:300;
+}
+
 .overlay {
   position: fixed;
   top: 0;
@@ -21,54 +29,63 @@
   opacity: 1;
 }
 
+h1.post-title {
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+span {
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+
+p{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+  margin-right: 0px;
+}
+
+p.tagline {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+p.description {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+
+
+
+ul, ol, table, pre, dl {
+	margin:0 0 20px;
+}
+
 header {
 	width:275px;
 	float:left;
 	position:fixed;
 	border-right: 1px solid #eee;
-	padding: 30px 10px 20px 0px;
+	padding: 30px 30px 20px 0px;
 	min-height: 100%;
-	margin: -80px 0;
+	margin: -40px 0;
 }
 
 header h1 {
-	margin-bottom: 0px;
-}
-
-div.home header,
-div.home section,
-div.home footer {
-	float: none;
-	width: auto;
-	position: static;
-	text-align: center;
-	max-width: 400px;
-	margin: 0 auto;
-}
-
-div.home header {
-	background: none;
-	padding: 0;
-	margin-bottom: 2em;
-	min-height: 0;
-	border: none;
-	text-align: center;
-}
-
-div.home header ul {
-	position: static;
-	margin: 0 auto;
+	margin-bottom: -30px;
 }
 
 
-
-body {
-	margin: 0;
-	padding:50px;
-	font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color:#333;
-	font-weight:300;
-}
 
 .popup {
   margin: 70px auto;
