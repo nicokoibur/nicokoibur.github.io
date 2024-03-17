@@ -9,8 +9,9 @@ kramdown:
 #Permalinks
 permalink: /:categories/:title/
 
+# title: 'Dedicate your life, work and all that you have to the glory of his name.'
 title: 'Living life and make it better'
-tagline: 'life, learn, contribute'
+tagline: 'Dedicate your life, work and all that you have to the glory of his name.'
 description: 'Learn software development, java programming, android, 
             embedded system programming and other open source tehcnology'
 logo: /assets/img/dsclogo.jpg
