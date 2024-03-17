@@ -8,6 +8,8 @@ gemspec
 
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
+gem "jekyll-paginate"
+gem "jekyll-feed"
 
 # https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 # When running locally, we run into the following error —
@@ -18,3 +20,4 @@ gem "webrick"
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
 gem "kramdown-parser-gfm"
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]

@@ -1,4 +1,4 @@
-title: 'Nico Koibur'
+title: 'Living life and make it better'
 tagline: 'life, learn, contribute'
 description: 'Learn software development, java programming, android, 
             embedded system programming and other open source tehcnology'
@@ -6,12 +6,20 @@ logo: /assets/img/dsclogo.jpg
 email: 'nicokoibur@gmail.com'
 # url: https://honaidev.tech
 
+author:
+    name: "Nico Koibur"
+    email: "nicokoibur@gmail.com"
+    github: "nicokoibur"
+    Linkedin: "nicokoibur"
+
 favicon: true
 color-scheme: auto
 
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
   - jemoji
 
 platforms:
@@ -30,3 +38,8 @@ navigation:
         link: ./index.html#small-image
   - name: Another Page
     link: ./another-page.html
+
+paginate: 5
+
+# Timezone
+timezone: Asia/Jayapura
