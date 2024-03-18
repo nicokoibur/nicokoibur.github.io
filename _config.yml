@@ -1,60 +1,46 @@
-
-#Conversion
+# Conversion
 markdown: kramdown
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-#Permalinks
+# Permalinks
 permalink: /:categories/:title/
 
-# title: 'Dedicate your life, work and all that you have to the glory of his name.'
-title: 'Living life and make it better'
-tagline: 'Dedicate your life, work and all that you have to the glory of his name.'
-description: 'Learn software development, java programming, android, 
-            embedded system programming and other open source tehcnology'
-logo: /assets/img/dsclogo.jpg
-email: 'nicokoibur@gmail.com'
-# url: https://honaidev.tech
-
+# Setup
+# title: "Living life and Make it Better"
+# title: "Write it down so that knowledge is not lost"
+title: "Make your life more meaningful"
+tagline: "Dedicate your life, work and all that you have to the glory of his name."
+description: "Learn software development, java programming, android,
+  embedded system programming and other open source tehcnology"
+logo: /images/dsclogo.jpg
+url: https://nicokoibur.github.io
 
 author:
-    name: "Nico Koibur"
-    email: "nicokoibur@gmail.com"
-    github: "nicokoibur"
-    Linkedin: "nicokoibur"
-
-favicon: true
-color-scheme: auto
+  name: Nico Koibur
+  email: nicokoibur@gmail.com
+  github: nicokoibur
+  linkedin: nicokoiur
+  facebook: nico.koibur
+  url: http://nicokoibur.github.io
+  email_md5: a3c8a6a973fc0c0fa3d89cb69c103ad0
+  bio: "Software Developer berdomisili di Jayapura, berkutat di lingkungan open source, 
+        terutama Java dan Linux."
 
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
   - jemoji
-
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/nicokoibur
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/nico-koibur-49b80649
-
-navigation:
-  - name: Home
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+  - jekyll-sitemap
+  - jekyll-feed
 
 paginate: 5
 
-#Facebook comments
+# Google Analytics
+# google_analytics_tracking_id: UA-36102948-1
+
+# Facebook Comments
 facebook_appid: 418147669297621
 
 # Timezone

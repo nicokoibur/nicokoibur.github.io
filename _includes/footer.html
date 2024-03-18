@@ -1,5 +1,9 @@
-{% unless site.hide_project_footer %}
-    {% if site.github.is_project_page %}
-    <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-    {% endif %}
-{% endunless %}
+<footer>
+    <br><br>
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p><small>Powered by <a href="http:///jekyllrb.com/">Jekyll</a> | Theme by <a href="https://github.com/endymuhardin/endymuhardin.github.io">endymuhardin</a></small></p> 
+</footer>
+
+<script src="/js/scale.fix.js"></script>
+{% include google_analytics.html %}
+

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:2.1
+FN:Endy Muhardin
+N:Muhardin;Endy;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:endy@artivisi.com
+EMAIL;TYPE=INTERNET;TYPE=HOME:endy.muhardin@gmail.com
+EMAIL;TYPE=INTERNET;TYPE=OTHER:endy@tazkia.ac.id
+TEL;TYPE=CELL:+62 812-9800-0468
+ORG:ArtiVisi Intermedia
+TITLE:IT Consultant
+URL:https://software.endy.muhardin.com
+URL:https://youtube.com/artivisi
+PHOTO;VALUE=uri:https://lh3.googleusercontent.com/contacts/AKUYANSIAvSwTlLO9X1flZaNvgDZZ7n0rxHdodKCg2h1NRGuL7Riffcm
+END:VCARD
