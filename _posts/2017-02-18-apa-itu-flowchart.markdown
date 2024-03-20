@@ -39,4 +39,4 @@ Penjelasan :
 - Selesai.
 
 Akhir kata saya ingin menyampaikan 
-> Jika memahami flowchart dan simbol-simbolnya akan memudahkan kamu untuk menjelask proses berjalannya suatu program. Dengan kata lain juga Flowchart ialah alat untuk menyampaikan informasi tentang program kepada orang lain.
+> Jika memahami flowchart dan simbol-simbolnya akan memudahkan kamu untuk menjelaskan proses berjalannya suatu program. Dengan kata lain juga Flowchart ialah alat untuk menyampaikan informasi tentang program kepada orang lain.
