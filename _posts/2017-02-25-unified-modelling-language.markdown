@@ -56,3 +56,10 @@ Berikut contoh-contoh diagram :
 6. **Component Diagram**.
    [![Component Diagram](/images/uploads/2017/02-25/component-diagram-768x352.png)](/images/uploads/2017/02-25/component-diagram-768x352.png)
    Component diagram yang berfungsi untuk menggambarkan software pada suatu sistem. Component diagram merupakan penerapan pada piranti lunak atau software dari satu class maupun lebih, dan biasanya berupa file data, source code,.exe, table, dokumen, atau yang lainnya.
+
+Tertarikkah kamu untuk mempelajari UML (Unified Modelling Language) mulai hari ini? Dalam perkuliahan UML (Unified Modelling Language) sering dipelajari, seperti apa itu UML, contoh-contohnya, bagaimana implementasinya dan sebagainya. Bahkan UML menjadi salah satu syarat dalam skripsi, contohnya adalah mencantumkan diagram UML yang akan menjadi pokok pembahasan dalam Pemrograman Berorientasi Objek (PBO).
+
+Bukan hanya bagi programer saja, UML juga sangat cocok bagi pemula yang ingin belajar mengenai konsep pemodelan dan simulasi. Maka dengan mempelajari UML (Unified Modelling Language), jelas akan mempermudah pembuatan program aplikasi serta mempermudah bagi pengguna yang akan menggunakan aplikasi tersebut.
+
+Baik teman-teman, sekian yang dapat saya sampaikan mengenai Apa Itu UML. 
+Akhir kata, saya ucapkan terima kasih kepada para pembaca. Mudah-mudahan bermanfaat ya.
