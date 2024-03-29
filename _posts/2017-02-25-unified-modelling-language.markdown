@@ -32,15 +32,27 @@ Perlu kamu ketahui bahwa sistem yang baik itu berawal dari perancangan dan pemod
 6. Berguna sebagai blueprint, jelas ini nantinya menjelaskan informasi yang lebih detail dalam perancangan berupa coding suatu program
 
 Berikut contoh-contoh diagram :
-1. Use Case Diagram.
-   [![Simbol-simbol Flowchart](/images/uploads/2017/02-25/use-case-diagram-atm.png)](/images/uploads/2017/02-25/use-case-diagram-atm.png)
-2. Activity Diagram.
-   [![Simbol-simbol Flowchart](/images/uploads/2017/02-25/activity-diagram-768x521.png)](/images/uploads/2017/02-25/use-case-diagram-atm.png)
-3. Sequence Diagram.
-   [![Simbol-simbol Flowchart](/images/uploads/2017/02-25/use-case-diagram-atm.png)](/images/uploads/2017/02-25/activity-diagram-768x521.png)
-4. Class Diagram.
-   [![Simbol-simbol Flowchart](/images/uploads/2017/02-25/class-diagram-768x352.png)](/images/uploads/2017/02-25/class-diagram-768x352.png)
-5. Statemachine Diagram.
-   [![Simbol-simbol Flowchart](/images/uploads/2017/02-25/statemachine-diagram-768x545.png)](/images/uploads/2017/02-25/statemachine-diagram-768x545.png)
-6. Component Diagram.
-   [![Simbol-simbol Flowchart](/images/uploads/2017/02-25/component-diagram-768x352.png)](/images/uploads/2017/02-25/component-diagram-768x352.png)
+1. **Use Case Diagram**.
+   [![Use Case Diagram](/images/uploads/2017/02-25/use-case-diagram-atm.png)](/images/uploads/2017/02-25/use-case-diagram-atm.png)
+   Use Case Diagram adalah satu jenis dari diagram UML (Unified Modelling Language) yang menggambarkan hubungan interaksi antara sistem dan aktor. Use Case dapat mendeskripsikan tipe interaksi antara si pengguna sistem dengan sistemnya. Use Case merupakan sesuatu yang mudah dipelajari. Langkah awal untuk melakukan pemodelan perlu adanya suatu diagram yang mampu menjabarkan aksi aktor dengan aksi dalam sistem itu sendiri, seperti yang terdapat pada Use Case.
+
+2. **Activity Diagram**.
+   [![Activity Diagram](/images/uploads/2017/02-25/activity-diagram-768x521.png)](/images/uploads/2017/02-25/use-case-diagram-atm.png)
+   Activity diagram atau dalam bahasa Indonesia berarti diagram aktivitas, merupakan sebuah diagram yang dapat memodelkan berbagai proses yang tejadi pada sistem. Seperti layaknya runtutan proses berjalannya suatu sistem dan digambarkan secara vertikal. Activity diagram adalah salah satu contoh diagram dari UML dalam pengembangan dari Use Case.
+
+3. **Sequence Diagram**.
+   [![Sequence Diagram](/images/uploads/2017/02-25/sequence-diagram-768x504.png)](/images/uploads/2017/02-25/sequence-diagram-768x504.png)
+   Sequence diagram merupakan diagram yang menjelaskan interaksi objek berdasarkan urutan waktu. Sequence dapat menggambarkan urutan atau tahapan yang harus dilakukan untuk dapat menghasilkan sesuatu, seperti yang tertera pada Use Case diagram.
+
+4. **Class Diagram**.
+   [![Class Diagram](/images/uploads/2017/02-25/class-diagram-768x352.png)](/images/uploads/2017/02-25/class-diagram-768x352.png)
+   Class diagram atau diagram kelas merupakan suatu diagram yang digunakan untuk menampilkan kelas-kelas berupa pake-paket untuk memenuhi salah satu kebutuhan paket yang akan digunakan nantinya.
+   Namun, pada Class diagram desain modelnya dibagi menjadi 2 bagian. Class diagram yang pertama merupakan penjabaran dari domain model yang merupakan abstraksi dari basis data. Class diagram yang kedua merupakan bagian dari modul program MVC pattern (Model View Controller), di mana terdapat class boundary sebagai class interface, class control sebagai tempat ditemukannya algoritma, dan class entity sebagai tabel dalam basis data dan query program.
+
+5. **Statemachine Diagram**.
+   [![Statemachine Diagram](/images/uploads/2017/02-25/statemachine-diagram-768x545.png)](/images/uploads/2017/02-25/statemachine-diagram-768x545.png)
+   Statemachine yaitu salah satu jenis diagram pada UML yang berfungsi untuk menggambarkan transisi serta perubahan pada suatu objek pada sistem.
+
+6. **Component Diagram**.
+   [![Component Diagram](/images/uploads/2017/02-25/component-diagram-768x352.png)](/images/uploads/2017/02-25/component-diagram-768x352.png)
+   Component diagram yang berfungsi untuk menggambarkan software pada suatu sistem. Component diagram merupakan penerapan pada piranti lunak atau software dari satu class maupun lebih, dan biasanya berupa file data, source code,.exe, table, dokumen, atau yang lainnya.
