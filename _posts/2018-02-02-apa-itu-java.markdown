@@ -69,7 +69,5 @@ Dengan adanya komponen JVM inilah yang membuat JAVA memiliki slogan "WORA (Write
 Yang dimana programmer/developer dapat menulis/membangun program java sekali, namun dapat dijalankan pada sistem operasi berbeda, sehingga Java dapat berjalan sebagai Platform Indepen(tidak bergantung pada sistem operasi tertentu).
 
 
-
-
 Reference : 
 * [https://aws.amazon.com/id/what-is/java/](https://aws.amazon.com/id/what-is/java)
