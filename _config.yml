@@ -26,8 +26,8 @@ author:
   facebook: nico.koibur
   url: http://nicokoibur.github.io
   email_md5: a3c8a6a973fc0c0fa3d89cb69c103ad0
-  bio: "Software Developer berdomisili di Jayapura, berkutat di lingkungan open source, 
-        terutama Java dan Linux."
+  bio: "Software Developer berdomisili di Jayapura, berkecimpung di lingkungan open source, 
+        terutama PHP, Java dan Linux."
 
 plugins:
   - jekyll-paginate
